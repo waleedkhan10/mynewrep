@@ -1,2 +1,2 @@
 # mynewrep
-A repository created  to learn connecting to GitHub remotely
+A repository created  to learn connecting to GitHub remotely.
